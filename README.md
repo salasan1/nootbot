@@ -1,6 +1,6 @@
 # NootBot
 
-Finnish (Suomeksi)
+## Finnish (Suomeksi)
 
 Tervetuloa minun Discord projektiini.
 
@@ -8,7 +8,7 @@ Täällä voit ehdottaa esim. uutta komentoa.
 
 
 
-English (englanniksi)
+## English (englanniksi)
 
 Welcome to my Discord project.
 
