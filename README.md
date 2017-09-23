@@ -7,6 +7,7 @@ Tervetuloa minun Discord projektiini.
 Täällä voit ehdottaa esim. uutta komentoa.
 
 
+
 English (englanniksi)
 
 Welcome to my Discord project.
