@@ -1,15 +1,4 @@
 # NootBot
+Tervetuloa minun Discord projektiini. Täällä voit ehdottaa esim. uutta komentoa.
 
-### Finnish (Suomeksi)
-
-Tervetuloa minun Discord projektiini.
-
-Täällä voit ehdottaa esim. uutta komentoa.
-
-
-
-### English (englanniksi)
-
-Welcome to my Discord project.
-
-Here you can request example new command.
+Saat botin kanallesi [tästä](https://discordapp.com/oauth2/authorize?client_id=294509025805205504&scope=bot&permissions=271707142).
